@@ -11,7 +11,8 @@ const ProductCard = () => {
             <img src="images/wish.svg" alt="whislist" />
           </Link>
         </div>
-        <div product-image>
+        <div className="product-image">
+          <img src="images/watch-01.jpg" alt="product image" />
           <img src="images/watch.jpg" alt="product image" />
         </div>
         <div className="product-details">
